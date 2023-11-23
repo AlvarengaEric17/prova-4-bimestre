@@ -1,10 +1,10 @@
 import './App.css';
-import Media from './components/Media';
+import Conversor from './components/Conversor';
 
 function App() {
   return (
     <div className="App">
-     <Media/>
+     <Conversor/>
 
     
     </div>
