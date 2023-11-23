@@ -1,12 +1,12 @@
 import './App.css';
-import Conversor from './components/Conversor';
+import SimpleCounter from './components/SimpleCounter';
 
 function App() {
   return (
     <div className="App">
-     <Conversor/>
+      <SimpleCounter />
 
-    
+
     </div>
   );
 }
