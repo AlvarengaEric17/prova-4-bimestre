@@ -1,10 +1,10 @@
 import './App.css';
-import SimpleCounter from './components/SimpleCounter';
+import Votacao from './components/Votacao';
 
 function App() {
   return (
     <div className="App">
-      <SimpleCounter />
+      <Votacao />
 
     </div>
   );
